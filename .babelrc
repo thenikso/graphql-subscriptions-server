@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "transform-runtime",
+    "babel-root-import",
+    "transform-flow-strip-types"
+  ],
+  "presets": ["es2015", "stage-0"],
+}
